@@ -22,19 +22,8 @@ This project was made using the follow technologies:
 
 - [Python]
 - [Streamlit]
-- []
+- [MySQL]
 
-
-# :rocket: Features
-
-- Template for a fast project kick-off
-
-# :construction_worker: How to run
-
-```bash
-# Clone Repository
-$ git clone https://github.com/Arcadis/WebApp_ARSH.git
-```
 
 ### 💻 Run API
 
