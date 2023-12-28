@@ -48,7 +48,7 @@ Go to http://localhost:8501/ to see the result.
 
 <div class="container2">
   <h4>Pesquisar Registros de Obitos</h4>
-  <img src="pesquisa.png" caption="pesquisar registros de obtio" width="420" height="300">
+  <img src="pesquisa.png" caption="pesquisar registros de obtio" width="400" height="400">
 </div>
 
 <div class="container3">
