@@ -14,7 +14,8 @@
 <br/>
 
 # 🎯 Objective
-- Aplicativo para manipulação de dados pelos veterinarios. 
+- Aplicativo para manipulação de animais para veterinarios.
+- Modulos permitem adicionar animais , registrar obtitos e consultar os laudos de obitos.
 
 # :computer: Technologies
 
