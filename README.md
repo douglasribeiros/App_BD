@@ -64,7 +64,7 @@ Douglas Ribeiro da Silva
 
 🔩 <H2>Considerações</H2> 
 
-Demonstrar a versatilidade da linguagem Python na obtenção e exibição de dados através de Web Scraping 
+Utilização da linguagem Python para manipular leitura e escrita em banco de dados SQL.
 
 🎁 <H2>Expressões de gratidão</H2>
 
